@@ -40,7 +40,8 @@ A user can create notes on a web browser, edit, sort and delete them.
 
 Screen capture video of the Notes App.
 
-[notes-app-demo]("https://github.com/cheesehero112/notes-app/raw/main/Notes-App-demo.mov")
+https://user-images.githubusercontent.com/102322200/191633665-5e379e96-cea8-455a-bfda-1278f1a92b6d.mov
+
 
 ## References
 
