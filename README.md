@@ -45,10 +45,6 @@ https://user-images.githubusercontent.com/102322200/191633665-5e379e96-cea8-455a
 
 ## References
 
-To play the game, visit the link below:
-
-[https://hangman-chihiro.netlify.app/](https://hangman-chihiro.netlify.app/)
-
-"Hangman Game" is one of the projects taught at The Modern JavaScript Bootcamp by Andrew Mead at Udemy. 
+"Notes app" is one of the projects taught at The Modern JavaScript Bootcamp by Andrew Mead at Udemy. 
 
 For more information, visit: https://mead.io/
