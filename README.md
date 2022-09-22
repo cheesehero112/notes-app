@@ -6,6 +6,9 @@
 
 A user can create notes on a web browser, edit, sort and delete them. 
 
+To use the app, go to the link below: 
+https://notes-app-chihiro.netlify.app
+
 
 
 ## Files
@@ -44,6 +47,9 @@ https://user-images.githubusercontent.com/102322200/191633665-5e379e96-cea8-455a
 
 
 ## References
+
+To use the app, visit the link below!
+https://notes-app-chihiro.netlify.app
 
 "Notes app" is one of the projects taught at The Modern JavaScript Bootcamp by Andrew Mead at Udemy. 
 
